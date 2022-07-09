@@ -1,7 +1,7 @@
 let company ={
     name :`chev`,
     yearlyRevenue : 500000,
-    ceo : ollie,
+    ceo : `ollie`,
     numberOfEmployees : 47,
 
 };
