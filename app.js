@@ -3,7 +3,26 @@ let company ={
     yearlyRevenue : 500000,
     ceo : `ollie`,
     numberOfEmployees : 47,
-    managers : [`shaq`, `bob`, `tanya`],
+    managers : [
+        {
+            name:`bob`,
+            salary:200,
+            is_senior: false
+
+        },
+        {
+            name:`tanya`,
+            salary:400,
+            is_senior: false
+
+        },
+        {
+            name:`dawn`,
+            salary:600,
+            is_senior: true
+
+        }
+    ],
 };
 
 
